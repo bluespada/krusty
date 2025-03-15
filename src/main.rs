@@ -8,6 +8,8 @@ use actix_web::{App, HttpServer};
 
 mod vite;
 mod services;
+mod rpc;
+mod utils;
 
 
 #[tokio::main]
