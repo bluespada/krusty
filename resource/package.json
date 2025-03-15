@@ -1,0 +1,11 @@
+{
+    "name": "krusty",
+    "scripts": {
+        "dev": "vite dev",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "vite": "^6.2.2"
+    }
+}
